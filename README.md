@@ -28,7 +28,9 @@ insertOne({
 R: 41 Funcionários. 
 
 **1.3** Quantos funcionários trabalham especificamente no Departamento de Tecnologia?
-R: ```bson
+
+R:
+```bson
 insertMany({
   "_id": {
     "$oid": "69f8b8a771dfdd5a2058ec69"
