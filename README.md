@@ -1,3 +1,9 @@
+<p align="left">
+  <img align="center" src="" 
+    width="100%" alt="Imagem">
+</p>
+
+
 # ---Aetheria Systems---
 *Conectando fluxos, antecipando o amanhã.*
 
