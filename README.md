@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="center" src="" 
+  <img align="center" src="Gemini_Generated_Image_1u1jfy1u1jfy1u1j (1).png" 
     width="100%" alt="Imagem">
 </p>
 
